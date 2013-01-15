@@ -69,6 +69,7 @@ Bundle 'kchmck/vim-coffee-script'
 "Bundle 'plasticboy/vim-markdown'
 Bundle 'depuracao/vim-rdoc'
 Bundle 'mamut/vim-css-hex'
+Bundle 'slim-template/vim-slim'
 
 "--------------------------
 " color scheme
