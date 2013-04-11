@@ -91,6 +91,6 @@ Bundle 'rickharris/vim-monokai'
 " snipmate
 "--------------------------
 Bundle 'garbas/vim-snipmate'
-Bundle 'honza/snipmate-snippets'
+Bundle 'honza/vim-snippets'
 Bundle 'tomtom/tlib_vim'
 Bundle 'MarcWeber/vim-addon-mw-utils'
